@@ -2,11 +2,18 @@
 
 **Open hardware project for repurposing 2009–2013 iMac camera modules into modern USB-C webcams.**
 
+![Open Hardware](https://img.shields.io/badge/Open-Hardware-blue)
+![USB 2.0](https://img.shields.io/badge/USB-2.0-green)
+![USB-C](https://img.shields.io/badge/USB--C-Compatible-blue)
+![3D Printable](https://img.shields.io/badge/3D-Printable-orange)
+
 Every year, thousands of otherwise functional iMacs are scrapped due to broken displays, failed logic boards, or obsolete hardware. Their camera modules are often still fully functional, compact, factory-calibrated USB devices destined for e-waste.
 
 **imac-camera-rebirth** documents everything needed to give these cameras a second life.
 
 Whether you want to build your own, integrate one into a robotics project, or simply purchase a ready-to-use webcam, this repository contains the documentation, CAD files, wiring information, and compatibility notes to make it possible.
+
+
 
 ## Features
 
