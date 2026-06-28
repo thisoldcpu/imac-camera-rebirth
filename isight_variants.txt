@@ -3,3 +3,4 @@
 PCB: 820-2572 
 Aluminum Shim: 806-02600
 Plastic Frame: 8T98PEEC2 77K3L00
+Harness: 593-1027 A (black, brown, white, purple, grey)
