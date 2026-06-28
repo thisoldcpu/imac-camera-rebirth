@@ -1,0 +1,10 @@
+Notes for this variant of iSight module:
+- Each module may have differing pinouts or wire colors
+- Chassis (bare) and GND are bonded. Both should tone on the Heatsink pad
+
+Pinout
+Pin 1: Chassis -> USB GND (black at PCB end. Marked with arrow closest to edge of PCB) 
+Pin 2: +5V -> USB VCC (brown) 
+Pin 3: D- -> USB D- (purple) 
+Pin 4: D+ -> USB D+ (white) 
+Pin 5: GND - USB GND (grey)
