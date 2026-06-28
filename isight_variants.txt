@@ -4,3 +4,9 @@ PCB: 820-2572
 Aluminum Shim: 806-02600
 Plastic Frame: 8T98PEEC2 77K3L00
 Harness: 593-1027 A (black, brown, white, purple, grey)
+
+Notes:
+Detects as "Built-in iSight" without a driver on Windows. Hardwre ID is VID_05AC&PID_8502
+
+Once the driver is installed Device Manager identifies the camera as "Apple Built-in iSight".
+We used AppleNullDriver64.exe 2.1.1.1 extracted to a folder for manual installation
