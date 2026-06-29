@@ -13,7 +13,9 @@ Every year, thousands of otherwise functional iMacs are scrapped due to broken d
 
 Whether you want to build your own, integrate one into a robotics project, or simply purchase a ready-to-use webcam, this repository contains the documentation, CAD files, wiring information, and compatibility notes to make it possible.
 
+<img width="4000" height="3000" alt="20260628_140309" src="https://github.com/user-attachments/assets/9d6b3824-4405-4c0b-8105-31f412bdd496" />
 
+<img width="1695" height="1271" alt="wires" src="https://github.com/user-attachments/assets/71fc9c1e-8cdd-487f-b39d-21c11060dc36" />
 
 ## Features
 
