@@ -16,6 +16,10 @@ Each module may use different connectors, harness colors, mounting hardware, or 
 
 <img width="3000" height="4000" alt="20260628_144630" src="https://github.com/user-attachments/assets/525cbc46-16ad-466b-9672-0529885d1c1c" />
 
+<img width="640" height="480" alt="820-2572-A_image_quality" src="https://github.com/user-attachments/assets/6319b83c-8525-4755-8782-f893be561671" />
+
+Image captured using OBS video capture and the Apple Built-in iSight camera via USB-C
+
 ## Summary
 
 | Item                    | Value                             |
