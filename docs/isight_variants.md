@@ -14,6 +14,8 @@ Each module may use different connectors, harness colors, mounting hardware, or 
 
 # Apple 820-2572-A
 
+<img width="3000" height="4000" alt="20260628_144630" src="https://github.com/user-attachments/assets/525cbc46-16ad-466b-9672-0529885d1c1c" />
+
 ## Summary
 
 | Item                    | Value                             |
