@@ -1,4 +1,4 @@
-# imac-camera-rebirth
+# iMac Camera Rebirth
 
 **Open hardware project for repurposing 2009–2013 iMac camera modules into modern USB-C webcams.**
 
